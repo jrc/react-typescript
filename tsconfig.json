@@ -5,6 +5,7 @@
     "compilerOptions": {
         "strict": true,
         "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
         "lib": [
             "dom",
             "es2015"
